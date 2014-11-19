@@ -10,6 +10,7 @@ Workshops
 
 Full Stack Development Course in Kuwait, 17th November 2014
 -----------------------------------------------------------
+Full stack 
 
 * Ghada Alnaqi https://github.com/gnaqi <ghnaqi@gmail.com>    
 * Nasser Hussain <nasser.bader@outlook.com> https://github.com/nasser-bader
@@ -19,6 +20,9 @@ Full Stack Development Course in Kuwait, 17th November 2014
 * Muneera Aljeri <mujeri@kisr.edu.kw> (https://github.com/muneera88)
 * Abdulaziz Al-Massaeed (abdulaziz.almassaeed@ahliunited.com) (https://github.com/hackfoo) 
 * Nasser AlSnayen (nasser.lc9@gmail.com) <https://github.com/LC9> 
+* Kermit the frog
+* Captain Awesomesauce
+* Ebtisam
 
 PyCon Ireland in Dublin, 13th October 2014
 -----------------------------------------
